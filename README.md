@@ -1,0 +1,2 @@
+# Java-Advanced
+The Java Advanced course covers working with the Java language. In the course we learned to work with linear data structures, to solve algorithmic problems (problem solving skills), to work with streams, files and directories, as well as to create template classes. Attention is paid to the paradigm of functional programming, as well as the main tool relying on it - Stream API for processing data streams. The development environment that will be used by the coaching team is IntelliJ Idea 2020, but each student is free to use tools of their choice.
